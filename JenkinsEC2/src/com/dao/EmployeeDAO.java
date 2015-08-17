@@ -5,6 +5,7 @@ public class EmployeeDAO {
 	
    @Override
    public int hashCode(){
+	   System.out.println("Added an un-necessary line!");
 	   return 9 * 100;
    }
 }

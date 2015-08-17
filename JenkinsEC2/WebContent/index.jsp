@@ -7,7 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	Lorum Ipsum.
-	Prince of perisa. 
+	LORUM IPSUM
+	PRINCE OF PERSIA.
+	--------------------- 
 </body>
 </html>

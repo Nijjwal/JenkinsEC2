@@ -7,10 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<form action="bank" method="GET">
-		Balance: <input type="text" name="balance"/><br/>
-		Withdraw amount : <input type="text" name="amount"/><br/>
-		<input type="submit" value="Submit">
-	</form>
+ 
 </body>
 </html>

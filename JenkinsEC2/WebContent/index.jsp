@@ -4,9 +4,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Home Page</title>
 </head>
 <body>
+<h2>Bank Of America</h2>
 	<form action="bank" method="GET">
 		Balance: <input type="text" name="balance"/><br/>
 		Withdraw amount : <input type="text" name="amount"/><br/>
